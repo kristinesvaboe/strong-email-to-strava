@@ -1,0 +1,16 @@
+# .NET and Visual Studio files
+obj/
+bin/
+*.exe
+*.dll
+*.pdb
+
+# NuGet packages
+*.nuget/
+*.nupkg
+packages/
+
+# User-specific files
+*.userprefs
+*.suo
+*.sln.docstates
